@@ -282,7 +282,6 @@ return "Es vocal"
 } else {
 // Si no es vocal, tambien debe devolver "Dato incorrecto".
   return "Dato incorrecto"
-
 }
 
 }
