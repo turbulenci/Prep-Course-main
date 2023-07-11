@@ -1,22 +1,26 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-
+const nuevaString = "hola"
 
 // Crea una variable numérica, puede ser cualquier número:
 
+const nuevoNum = "" 
 
 // Crea una variable booleana:
 
+const nuevoBool = ""
 
 // Resuelve el siguiente problema matemático:
 
+const nuevaResta = "" 
+// Resuelve el siguiente problema matemático:
 
+const nuevaMultiplicacion = ""
 // Resuelve el siguiente problema matemático:
 
 
-// Resuelve el siguiente problema matemático:
-
+nuevoModulo = ""
 
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
